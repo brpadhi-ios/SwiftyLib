@@ -1,0 +1,2 @@
+# SwiftyLib
+Cocoapods lib
